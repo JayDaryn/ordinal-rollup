@@ -26,7 +26,7 @@ const CTA = () => (
                         </div>
                         <div className="mt-5 flex justify-center font-medium text-sm">
                             <NavLink
-                                href="#"
+                                href="/whitepaper"
                                 className="flex items-center text-white bg-purple-600 hover:bg-purple-500 active:bg-purple-700 "
                             >
                                 Whitepaper
