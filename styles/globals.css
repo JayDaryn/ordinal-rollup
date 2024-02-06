@@ -16,4 +16,21 @@
 html {
     --scroll-behavior: smooth!important;
     scroll-behavior: smooth!important;
-    }
+}
+
+#whitepaper-mdx h1 {
+    font-size: 3em;
+}
+#whitepaper-mdx h2 {
+    font-size: 2em;
+    margin-top: 50px;
+}
+
+#whitepaper-mdx p {
+    margin-bottom: 20px;
+}
+
+#whitepaper-mdx ul {
+    padding: 10px 30px 30px 30px;
+    list-style-type: disc;
+}
