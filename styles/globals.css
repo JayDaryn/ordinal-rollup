@@ -17,7 +17,9 @@ html {
     --scroll-behavior: smooth!important;
     scroll-behavior: smooth!important;
 }
-
+.panel-title{
+    color: white;
+}
 #whitepaper-mdx h1 {
     font-size: 3em;
 }
