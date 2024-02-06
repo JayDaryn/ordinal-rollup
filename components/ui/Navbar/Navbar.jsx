@@ -11,7 +11,6 @@ const Navbar = () => {
     const navigation = [
         { name: "Features", href: "/#features" },
         { name: "Whitepaper", href: "/#whitepaper" },
-        { name: "Testimonials", href: "/#testimonials" },
         { name: "Github", href: "https://github.com/JayDaryn/ordinal-rollup" },
     ]
 
