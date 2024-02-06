@@ -18,7 +18,7 @@ const Hero = () => (
                 <GradientWrapper className="mb-16 sm:mb-28" wrapperClassName="max-w-3xl h-[250px] top-12 inset-0 sm:h-[300px] lg:h-[650px]">
                         <Image
                             src={HeroImg}
-                            className="mx-auto max-w-lg w-2/3"
+                            className="mx-auto max-w-lg w-1/3"
                             alt="logo"
                         />
                     </GradientWrapper>
