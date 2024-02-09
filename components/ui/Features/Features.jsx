@@ -66,10 +66,10 @@ const Features = () => {
                 >
                     <div className="max-w-xl mx-auto text-center">
                         <h2 className="text-gray-50 text-3xl font-semibold sm:text-4xl">
-                            Start Building on Ordinal Rollup.
+                            Start Building on DApps on Bitcoin.
                         </h2>
                         <p className="mt-3">
-                            Ordinal Rollup Chain allows you to build decentralized apps, digital assets and tokens tied to BTC and always in sync with the bitcoin base blockchain by time-stamping blocks as inscriptions.
+                        Optimistic Rollup -&gt; ZK Rollup -&gt; <b>Ordinal Rollup</b>
                         </p>
                     </div>
                 </LayoutEffect>

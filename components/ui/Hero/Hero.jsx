@@ -28,10 +28,10 @@ const Hero = () => (
                                 backgroundImage: "linear-gradient(179.1deg, #FFFFFF 0.77%, rgba(255, 255, 255, 0) 182.09%)"
                             }}
                         >
-                            Bitcoin-Native Layer 2 Smart Contract Chain 
+                            Bitcoin-Native Layer2* Smart Contract Chain 
                         </h1>
                         <p className="max-w-xl mx-auto text-gray-300">
-                            The world's first truely decentralized bitcoin-native AppChain powered by bitcoin ordinal rollups*
+                            * Not Another SideChain! Powered by Bitcoin Ordinal Inscriptions.
                         </p>
                         <div className="flex justify-center font-medium text-sm">
                             <NavLink
