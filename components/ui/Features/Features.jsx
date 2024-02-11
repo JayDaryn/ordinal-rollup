@@ -66,7 +66,7 @@ const Features = () => {
                 >
                     <div className="max-w-xl mx-auto text-center">
                         <h2 className="text-gray-50 text-3xl font-semibold sm:text-4xl">
-                            Start Building on DApps on Bitcoin.
+                            Start Building DApps on Bitcoin.
                         </h2>
                         <p className="mt-3">
                         Optimistic Rollup -&gt; ZK Rollup -&gt; <b>Ordinal Rollup</b>
