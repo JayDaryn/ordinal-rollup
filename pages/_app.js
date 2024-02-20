@@ -9,15 +9,11 @@ export default function App({ Component, pageProps }) {
     setMounted(true)
   },[])
 
-  return isMounted ? (
+  return (
     <OrdConnectProvider initialNetwork={Network.MAINNET}>
     <Layout>
       <Component {...pageProps} />
     </Layout>
     </OrdConnectProvider>
-  ): (
-    <Layout>
-      <Component {...pageProps} />
-    </Layout>
   )
 }
